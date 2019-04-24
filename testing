@@ -1,3 +1,11 @@
-This is a test
+<!DOCTYPE html>
+<html>
+<head>
+<title>Title of the document</title>
+</head>
 
-This test is working. 
+<body>
+The content of the document......
+</body>
+
+</html>
